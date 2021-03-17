@@ -1,0 +1,36 @@
+# ToDo
+## Learn Dart
+0 watch free code camp dart
+    x 3_16 I have installed dart with choclatey
+    x there is a folder for college_conundrum in my desktop
+        0 change the theme in vs code so I can see
+
+## Learn Flutter
+0 watch free code camp flutter
+
+0 make a git repo
+
+0 design the UI for our social media-style music sharing app
+    0 look at instagram
+    0 think about how people interact with 
+0
+
+
+git add .
+^^ . means all files
+
+
+git commit -m "Add feed to app"
+^^ add before committing
+
+git commit -m "commit feed to app"
+
+
+
+
+pull
+
+push
+
+gitkracken
+sourcetree
