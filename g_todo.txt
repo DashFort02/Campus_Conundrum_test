@@ -5,32 +5,11 @@
     x there is a folder for college_conundrum in my desktop
         0 change the theme in vs code so I can see
 
-## Learn Flutter
-0 watch free code camp flutter
 
-0 make a git repo
+0 design the UI for our social events sharing app
+    0 think about how people interact with the interface
+    0 see folder on Pixel with example apps 
+0 make images for our app
+    0 see "Photos Images" folder
+    0 use ppt to do graphic design, then download as .png images
 
-0 design the UI for our social media-style music sharing app
-    0 look at instagram
-    0 think about how people interact with 
-0
-
-
-git add .
-^^ . means all files
-
-
-git commit -m "Add feed to app"
-^^ add before committing
-
-git commit -m "commit feed to app"
-
-
-
-
-pull
-
-push
-
-gitkracken
-sourcetree

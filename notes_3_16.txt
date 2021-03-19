@@ -1,5 +1,0 @@
-I will design the front end of our app.
-
-The app's ui is written in dart (like html). >> then flutter (like code.org) builds the elements of the app. 
-         >> then firestore will store all of our backend that the app retreives at the user's behest.
-
