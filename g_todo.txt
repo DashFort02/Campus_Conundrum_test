@@ -1,15 +1,18 @@
 # ToDo
 ## Learn Dart
-0 watch free code camp dart
-    x 3_16 I have installed dart with choclatey
-    x there is a folder for college_conundrum in my desktop
-        0 change the theme in vs code so I can see
 
+!! Problems
+    - the Campus Groups that Cornell uses has a sort of beuracratic process to ensure that campus groups post responsibly. I think we can ignore this
+    - I am not sure if I overwrote ethan's github files when I pushed to the main branch on 3_19_21
 
 0 design the UI for our social events sharing app
     0 think about how people interact with the interface
     0 see folder on Pixel with example apps 
+
 0 make images for our app
     0 see "Photos Images" folder
+        0 grab the gray and red icons from the bottom of the campus groups .jpgs
     0 use ppt to do graphic design, then download as .png images
+    0 check out the pre-installed kotlin images
+
 

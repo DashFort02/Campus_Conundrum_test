@@ -1,0 +1,22 @@
+# g_coding_notes
+
+## How to use git
+
+**use git desktop**
+git add .
+^^ . means all files
+git commit -m "Add feed to app"
+^^ add before committing
+git commit -m "commit feed to app"
+
+
+pull
+
+push
+### Alternatives to git desktop
+gitkracken
+sourcetree
+
+## Using android studio
+https://www.youtube.com/watch?v=EOfCEhWq8sg&ab_channel=Treehouse
+^^ youtube tutorial ethan texted
